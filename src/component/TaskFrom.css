@@ -1,0 +1,21 @@
+.task {
+    width: 50%;
+    height: auto;
+    background: #fff;
+    padding: 18px 34px;
+    border-radius: 7px;
+    /* justify-content:center; */
+    /* align-items: center; */
+    text-align: left;
+    font-size: 1rem;
+    margin: auto;
+    border: 1px black solid;
+    background-color: hsl(60, 29%, 97%);
+}
+.isReminder {
+    border: 1px hsl(213, 42%, 91%) solid;
+    margin: auto;
+    background: hsl(240, 20%, 97%);
+    border-radius: 4px;
+    margin-bottom: 30px !important;
+}
